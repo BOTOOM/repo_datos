@@ -1,0 +1,22 @@
+[
+  {
+    "Nombre": "Pin para cartera",
+    "ImagenPortada": "https://caelca.com.co/cauchosplasticos/wp-content/uploads/2016/11/149_PIN_PARA_CARTERA.jpg",
+    "Sku": 1110,
+    "Tamaño": "22 milimetros",
+    "Marcas": [
+      "Mazda",
+      "Mercedes"
+    ]
+  },
+  {
+    "Nombre": "Pin para tapizado",
+    "ImagenPortada": "https://caelca.com.co/cauchosplasticos/wp-content/uploads/2016/11/158_PIN_PLASTICO_PARA_TAPIZADO_3.jpg",
+    "Sku": 1112,
+    "Tamaño": "15 milimetros",
+    "Marcas": [
+      "Mazda",
+      "Honda"
+    ]
+  }
+]
